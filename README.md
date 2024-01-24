@@ -1,11 +1,9 @@
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer seeking to enhance my proficiency in TypeScript, I developed a simple to-do list application. This project served as a practical exercise to solidify my understanding of TypeScript language features, including classes, interfaces, and modules. The primary goal was to create a functional and well-structured application that demonstrates best practices in TypeScript development.
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
+The software allows users to manage a to-do list by adding, removing, and marking tasks as completed. This project aimed to showcase my ability to design and implement a TypeScript application, focusing on clean code, modularity, and effective use of TypeScript features.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -13,21 +11,26 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The development of this project was carried out using the following tools and technologies:
 
-{Describe the programming language that you used and any libraries.}
+- IDE: Visual Studio Code
+- Version Control: Git and GitHub
+- Build and Package Manager: npm (Node Package Manager)
+- Web Technologies: HTML, CSS
+- TypeScript Framework: None (Vanilla TypeScript)
+- Hosting: Local development environment
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/typescript-new-project)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Enhance UI/UX for a more polished and user-friendly interface.
+- Add user authentication to allow multiple users with personalized to-do lists.
+- Implement responsive design for better usability across various devices.
