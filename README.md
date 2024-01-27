@@ -7,7 +7,7 @@ The software allows users to manage a to-do list by adding, removing, and markin
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/grQUNaeTkrc)
 
 # Development Environment
 
@@ -16,7 +16,7 @@ The development of this project was carried out using the following tools and te
 - IDE: Visual Studio Code
 - Version Control: Git and GitHub
 - Build and Package Manager: npm (Node Package Manager)
-- Web Technologies: HTML, CSS
+- Web Technologies: HTML, CSS, TypeScript
 - TypeScript Framework: None (Vanilla TypeScript)
 - Hosting: Local development environment
 
