@@ -22,6 +22,8 @@ const initApp = (): void => {
 
     fullList.addItem(newItem)
 
+    input.value = ''
+
     template.render(fullList)
 
   })

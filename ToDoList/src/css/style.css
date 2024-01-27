@@ -73,6 +73,10 @@ li {
   padding: 1em;
 }
 
+#clearItemsButton{
+  float: right;
+}
+
 body {
   margin: 0;
   display: flex;
